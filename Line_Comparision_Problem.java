@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class EmpWage
+public class Line_Comparision_Problem 
 {
 	public static void main(String[] args)
 	{
